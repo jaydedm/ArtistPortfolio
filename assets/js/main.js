@@ -39,6 +39,9 @@
 	setTimeout(function() {
 		document.querySelector('.alert').style.display = 'none'
 	},3000)
+
+	//clear form
+	document.getElementById('contactForm').reset();
 }
 // Function to get form values
 	function getInputVal(id){
