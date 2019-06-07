@@ -49,6 +49,18 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.alert{
+	text-align: center;
+	padding: 10px;
+	background: #79c879;
+	color: #fff;
+	margin-bottom: 10px;
+	border: 2px solid white;
+	display: none
+
+
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
